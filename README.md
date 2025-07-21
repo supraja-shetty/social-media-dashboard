@@ -1,8 +1,6 @@
 # 🚀 Social Media Analytics Dashboard
 
-A comprehensive, responsive social media analytics platform built with Next.js, React, and TypeScript. This dashboard provides real-time insights, interactive data visualization, and advanced user experience features for social media management.
-
-![Dashboard Preview](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) ![Next.js](https://img.shields.io/badge/Next.js-15.3.3-black) ![React](https://img.shields.io/badge/React-19.0.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
+A comprehensive, responsive social media analytics platform built with Next.js, React, and TypeScript. This dashboard provides real-time insights, interactive data visualization, and advanced user experience features for social me
 
 ### 📊 **Core Dashboard Components**
 - **Overview Dashboard** - Comprehensive analytics with 8 main components
@@ -81,8 +79,3 @@ A comprehensive, responsive social media analytics platform built with Next.js, 
 
 
 
----
-
-**Built with ❤️ by the Social Media Dashboard Team**
-
-*Last updated: June 2025*
